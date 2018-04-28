@@ -32,3 +32,4 @@ if __name__ == '__main__':
     evaluate_and_print("elle est trop petit .")
     evaluate_and_print("je ne crains pas de mourir .")
     evaluate_and_print("c est un jeune directeur plein de talent .")
+    evaluate_and_print("je suis calme .")
